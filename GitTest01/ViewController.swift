@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         print("AAAAAA")
         print("BBBBBB")
         print("CCCCCCFromMain")
+        print("DDDDDDFormSub")
     }
 
 
